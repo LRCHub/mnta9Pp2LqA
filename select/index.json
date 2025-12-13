@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "ラブレター",
+  "base_artist": "YOASOBI",
+  "createdAt": "2025-12-13T12:19:24.288245Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ラブレター",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/01_ラブレター_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ラブレター",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/02_ラブレター_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ラブレター",
+      "artist": "Lamp",
+      "has_synced": false,
+      "path": "select/03_ラブレター_Lamp.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ラブレター",
+      "artist": "Lilas Ikuta",
+      "has_synced": true,
+      "path": "select/04_ラブレター_Lilas_Ikuta.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "恋文~ラブレター~",
+      "artist": "GReeeeN",
+      "has_synced": true,
+      "path": "select/05_恋文~ラブレター~_GReeeeN.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Love Letter [ラブレター]",
+      "artist": "THE BLUE HEARTS",
+      "has_synced": false,
+      "path": "select/06_Love_Letter_[ラブレター]_THE_BLUE_HEARTS.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ラブレター",
+      "artist": "Aimi",
+      "has_synced": true,
+      "path": "select/07_ラブレター_Aimi.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ラブレター",
+      "artist": "琴音",
+      "has_synced": false,
+      "path": "select/08_ラブレター_琴音.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ラブレター",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/09_ラブレター_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ラブレター・フロム・何か?",
+      "artist": "ecosystem",
+      "has_synced": true,
+      "path": "select/10_ラブレター・フロム・何か_ecosystem.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ラブレター",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/11_ラブレター_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ラブレター (情书)",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/12_ラブレター_(情书)_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ラブレター",
+      "artist": "THE BLUE HEARTS",
+      "has_synced": true,
+      "path": "select/13_ラブレター_THE_BLUE_HEARTS.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ラブレター。",
+      "artist": "BURNOUT SYNDROMES",
+      "has_synced": false,
+      "path": "select/14_ラブレター。_BURNOUT_SYNDROMES.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ラブレター (feat. 春茶)",
+      "artist": "kobasolo",
+      "has_synced": true,
+      "path": "select/15_ラブレター_(feat._春茶)_kobasolo.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "ラブレター",
+      "artist": "THE ALFEE",
+      "has_synced": false,
+      "path": "select/16_ラブレター_THE_ALFEE.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ラブレター",
+      "artist": "YOASOBI",
+      "has_synced": false,
+      "path": "select/pl_01_ラブレター_YOASOBI.txt"
+    }
+  ]
+}
